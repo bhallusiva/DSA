@@ -1,6 +1,6 @@
-package Arrays;
+ package Arrays;
 import java.util.*;
-public class Returning {
+public class TwoSum {
     int[] array_return(int arr[],int target)
     {
         int n=arr.length;
@@ -20,7 +20,7 @@ public class Returning {
     }
 public static void main(String args[])
 {
-    Returning ob=new Returning();
+    TwoSum ob=new TwoSum();
     int arr[]={10,20,30};
     int target=40;
     System.out.println(Arrays.toString(ob.array_return(arr,target)));
