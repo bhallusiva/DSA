@@ -18,6 +18,6 @@ public class CountOccurences {
                 map.put(ele,count);
             }
         }
-        System.out.println(map);
+        System.out.println("no of occurences are"+map.get(10));
     }
 }
