@@ -5,12 +5,19 @@ import java.util.Arrays;
 public class RotateArrayLeftByOne {
     int[] rotate(int arr[],int n)
     {
-        int first=arr[0];
-        for(int i=0;i<n-1;i++)
-        {
-            arr[i]=arr[i+1];
+        
+        int k=5;
+         
+        for(int j=0;j<k;j++)
+        {  
+            int temp=arr[0];
+            for(int i=0;i<n-1;i++)
+            { 
+                 
+                arr[i]=arr[i+1];
+            }
+            arr[n-1]=temp;
         }
-        arr[n-1]=first;
         return arr;
     }
     public static void main(String args[])

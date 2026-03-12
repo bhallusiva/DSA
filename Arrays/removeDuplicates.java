@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package Arrays;
 import java.util.*;  //all the collection frameworks are available in in this package
 public class removeDuplicates {
     public static void main(String args[])
@@ -17,5 +17,9 @@ public class removeDuplicates {
             set.add(ele);  //average complexity to add an element in hash set in O(1)
         }
         System.out.println(set);
+        ArrayList<Integer> list=new ArrayList<>(set);
+        System.out.println(list);
+        Collections.sort(list);
+        System.out.println(list);
     }
 }
