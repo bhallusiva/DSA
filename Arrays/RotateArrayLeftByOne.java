@@ -3,28 +3,32 @@ package DSA.Arrays;
 import java.util.Arrays;
 
 public class RotateArrayLeftByOne {
-    int[] rotate(int arr[],int n)
+    int[] rotate(int arr[],int n,int k)
+
     {
-        
-        int k=5;
-         
-        for(int j=0;j<k;j++)
-        {  
-            int temp=arr[0];
-            for(int i=0;i<n-1;i++)
-            { 
+        k=k%n;   //if k<n
+        reverse(arr, 0, k-1);    //first k elements are reversed
+        reverse(arr, k, n-1);           //remaining elements are reversed
+        reverse(arr, 0, n-1);   //whole array is reversed
                  
-                arr[i]=arr[i+1];
-            }
-            arr[n-1]=temp;
-        }
         return arr;
+    }
+    void reverse(int arr[],int start,int end)
+    {
+        while(start<end)
+        {
+            int temp=arr[start];
+            arr[start]=arr[end];
+            arr[end]=temp;
+            start++;
+            end--;
+        }
     }
     public static void main(String args[])
     {
         int[] arr={10,20,30,40};
         RotateArrayLeftByOne ob=new RotateArrayLeftByOne();
-        System.out.println(Arrays.toString(ob.rotate(arr,arr.length )));
+        System.out.println(Arrays.toString(ob.rotate(arr,arr.length,6 )));
 
     }
 }
