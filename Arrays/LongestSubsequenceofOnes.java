@@ -20,16 +20,18 @@ class LongestSubsequenceofOnes{
             if(arr[i]==1)
             {
                 count++;
+                max1=max(max1, count);
             }else{
-                max1=max(max1,count);
                 count=0;
             }
+           
+        
         }
         return max1;
     }
     public static void main(String args[])
     {
-        int arr[]={1,1,0,1,1,1,0,1};
+        int arr[]={1,1,0,1,1,1};
         LongestSubsequenceofOnes ob=new LongestSubsequenceofOnes();
         System.out.println(ob.longest(arr));
 
