@@ -1,4 +1,4 @@
-package DSA.Arrays;
+package Arrays;
 class BestTimetoBuyandSellStock{
     int computeProfit(int[] arr)
     {
