@@ -1,34 +1,29 @@
 import java.util.Arrays;
 
 public class RearrangeArrayBySign {
-    void arrange(int[] arr)
+    int[] arrange(int[] arr)
     {
-        int[] possitive=new int[arr.length/2];
-        int[] negetive=new int[arr.length/2];
-        int pi=0;
-        int ni=0;
-        for(int i=0;i<arr.length;i++)
-        {
-            if(arr[i]>0)
+        int pIndex=0;
+        int nIndex=1;
+        int[] result=new int[arr.length];
+         for(int i=0;i<arr.length;i++)
+         {
+            if(arr[i]<0)
             {
-                possitive[pi++]=arr[i];
+                result[nIndex]=arr[i];
+                nIndex=nIndex+2;
             }else{
-                negetive[ni++]=arr[i];
+                result[pIndex]=arr[i];
+                pIndex=pIndex+2;
             }
-        }
-         
-        for(int i=0;i<arr.length/2;i++)
-        {
-            arr[2*i]=possitive[i];
-            arr[2*i+1]=negetive[i];
-        }
-        
+         }
+         return result;
     }
     public static void main(String args[])
     {
         int[] arr={2, 4, 5, -1, -3, -4};
         RearrangeArrayBySign ob=new RearrangeArrayBySign();
-        ob.arrange(arr);
-        System.out.print(Arrays.toString(arr));   
+        
+        System.out.print(Arrays.toString(ob.arrange(arr)));   
     }
 }
