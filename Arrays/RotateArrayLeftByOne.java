@@ -1,4 +1,3 @@
-package DSA.Arrays;
 
 import java.util.Arrays;
 
