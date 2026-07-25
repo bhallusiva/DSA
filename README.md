@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhallusiva/DSA/tree/master/1552-magnetic-force-between-two-balls) |
+| [3536-maximum-product-of-two-digits](https://github.com/bhallusiva/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/bhallusiva/DSA/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/bhallusiva/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
