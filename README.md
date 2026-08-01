@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhallusiva/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/bhallusiva/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhallusiva/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/bhallusiva/DSA/tree/master/0680-valid-palindrome-ii) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhallusiva/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/bhallusiva/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/bhallusiva/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhallusiva/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bhallusiva/DSA/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/bhallusiva/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
