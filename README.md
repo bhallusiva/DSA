@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhallusiva/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhallusiva/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/bhallusiva/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3731-find-missing-elements](https://github.com/bhallusiva/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bhallusiva/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/bhallusiva/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [3536-maximum-product-of-two-digits](https://github.com/bhallusiva/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/bhallusiva/DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bhallusiva/DSA/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/bhallusiva/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bhallusiva/DSA/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/bhallusiva/DSA/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
