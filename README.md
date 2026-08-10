@@ -119,3 +119,15 @@ This is a **living repository**. New problems and patterns are added continuousl
 
 - GitHub: https://github.com/bhallusiva
 - LinkedIn: https://www.linkedin.com/in/siva-bhallu-333836305/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
+<!---LeetCode Topics End-->
