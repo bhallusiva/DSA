@@ -130,4 +130,16 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
