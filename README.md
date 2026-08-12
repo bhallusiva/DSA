@@ -138,10 +138,12 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhallusiva/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhallusiva/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -151,4 +153,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhallusiva/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
