@@ -129,12 +129,14 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0092-reverse-linked-list-ii](https://github.com/bhallusiva/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhallusiva/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -158,4 +160,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhallusiva/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
