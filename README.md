@@ -126,6 +126,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhallusiva/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/bhallusiva/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
