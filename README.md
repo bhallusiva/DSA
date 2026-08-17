@@ -127,6 +127,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhallusiva/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhallusiva/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/bhallusiva/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/bhallusiva/DSA/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/bhallusiva/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -178,6 +179,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/bhallusiva/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/bhallusiva/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Bit Manipulation
 |  |
 | ------- |
