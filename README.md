@@ -132,6 +132,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0061-rotate-list](https://github.com/bhallusiva/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhallusiva/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/bhallusiva/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -140,6 +141,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhallusiva/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/bhallusiva/DSA/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -159,6 +161,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
@@ -187,4 +190,12 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhallusiva/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
