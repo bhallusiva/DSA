@@ -218,5 +218,6 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhallusiva/DSA/tree/master/0002-add-two-numbers) |
 | [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
+| [3099-harshad-number](https://github.com/bhallusiva/DSA/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhallusiva/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
