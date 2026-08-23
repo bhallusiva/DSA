@@ -135,6 +135,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0083-remove-duplicates-from-sorted-list](https://github.com/bhallusiva/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/bhallusiva/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -182,6 +183,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
@@ -215,4 +217,5 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhallusiva/DSA/tree/master/0002-add-two-numbers) |
+| [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
