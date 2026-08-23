@@ -125,6 +125,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhallusiva/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bhallusiva/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/bhallusiva/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhallusiva/DSA/tree/master/0024-swap-nodes-in-pairs) |
@@ -189,6 +190,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/bhallusiva/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/bhallusiva/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhallusiva/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhallusiva/DSA/tree/master/0025-reverse-nodes-in-k-group) |
@@ -209,4 +211,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhallusiva/DSA/tree/master/2206-divide-array-into-equal-pairs) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/bhallusiva/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
