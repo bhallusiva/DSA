@@ -140,6 +140,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhallusiva/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +191,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhallusiva/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## String
 |  |
 | ------- |
@@ -201,6 +203,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0021-merge-two-sorted-lists](https://github.com/bhallusiva/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhallusiva/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhallusiva/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhallusiva/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -229,4 +232,5 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/bhallusiva/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
