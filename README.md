@@ -156,6 +156,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhallusiva/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhallusiva/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -233,4 +234,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/bhallusiva/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
