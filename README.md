@@ -163,6 +163,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bhallusiva/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bhallusiva/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bhallusiva/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3903-smallest-stable-index-i](https://github.com/bhallusiva/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,4 +239,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/bhallusiva/DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
