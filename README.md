@@ -232,6 +232,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [3099-harshad-number](https://github.com/bhallusiva/DSA/tree/master/3099-harshad-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bhallusiva/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/bhallusiva/DSA/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/bhallusiva/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
