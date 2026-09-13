@@ -1,82 +1,61 @@
-package DSA.LinkedLists;
 
+package LinkedLists;
 import java.util.Scanner;
 
-class Node{
+ class Node{
     int val;
     Node next;
-    Node head=null;
-    Node createNode(int val1)
+    Node head = null;
+    Node createNode(int val)
     {
-        Node newNode=new Node();
-        newNode.val=val1;
-        newNode.next=null;
+        Node newNode = new Node();
+        newNode.val = val;
+        newNode.next = null;
         return newNode;
     }
-    void insert_at_begin(int val1)
+    void insert_at_begin(int val)
     {
-        Node newNode=createNode(val1);
+        Node newNode = createNode(val);
         if(head==null)
         {
-            head=newNode;
+            head = newNode;
         }else{
             newNode.next=head;
             head=newNode;
         }
-        
     }
-    void insert_at_last(int val1)
+    void insert_at_last(int val)
     {
-        Node newNode=createNode(val1);
+        Node newNode = createNode(val);
         if(head==null)
         {
-            head=newNode;
+            head = newNode;
         }else{
-            Node temp=head;
+            Node temp = head;
             while(temp.next!=null)
             {
                 temp=temp.next;
             }
-            temp.next=newNode;
-            
+            temp.next = newNode;
         }
     }
-
-    void insert_at_pos(int pos,int val1)
+    void insert_at_pos(int val)
     {
-        Node newNode=createNode(val1);
-        Node prev=head;
+        Node newNode = createNode(val);
         if(head==null)
         {
-            head=newNode;
+            head = newNode;
         }else{
-            Node temp=head;
-            while(temp.val!=pos)
+            Node temp = head;
+            while(temp.val != val && temp.next!=null)
             {
-                temp=temp.next;
+                temp = temp.next;
             }
             newNode.next=temp.next;
             temp.next=newNode;
         }
     }
-    void display()
-    {
-
-        Node temp=head;
-        if(head==null)
-        {
-            System.out.println("there are no elements in list");
-        }else{
-        while(temp!=null)
-        {
-            System.out.print(temp.val+"=>");
-            
-            temp=temp.next;
-
-        }
-    }
-}
-}
+ }
 
 public class SinglyLIst {
     public static void main(String[] args) {
