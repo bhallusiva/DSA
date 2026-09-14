@@ -154,6 +154,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -252,4 +253,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/bhallusiva/DSA/tree/master/0836-rectangle-overlap) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
