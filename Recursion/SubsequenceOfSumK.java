@@ -23,6 +23,6 @@ public class SubsequenceOfSumK {
     {
         int [] arr= {3,1,2};
         SubsequenceRecursion ob = new SubsequenceRecursion();
-        ob.sequence(0,new ArrayList<>(),arr,0);
+        ob.sequence(0,new ArrayList<>(),arr,0,4);
     }
 }
