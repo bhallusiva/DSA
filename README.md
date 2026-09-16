@@ -207,6 +207,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0021-merge-two-sorted-lists](https://github.com/bhallusiva/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/bhallusiva/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/bhallusiva/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/bhallusiva/DSA/tree/master/0050-powx-n) |
 | [2487-remove-nodes-from-linked-list](https://github.com/bhallusiva/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
 |  |
@@ -229,6 +230,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhallusiva/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/bhallusiva/DSA/tree/master/0050-powx-n) |
 | [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0836-rectangle-overlap](https://github.com/bhallusiva/DSA/tree/master/0836-rectangle-overlap) |
 | [3099-harshad-number](https://github.com/bhallusiva/DSA/tree/master/3099-harshad-number) |
