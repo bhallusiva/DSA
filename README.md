@@ -233,6 +233,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhallusiva/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bhallusiva/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/bhallusiva/DSA/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0836-rectangle-overlap](https://github.com/bhallusiva/DSA/tree/master/0836-rectangle-overlap) |
 | [3099-harshad-number](https://github.com/bhallusiva/DSA/tree/master/3099-harshad-number) |
@@ -262,4 +263,12 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhallusiva/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bhallusiva/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
