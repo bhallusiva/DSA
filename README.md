@@ -237,6 +237,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0002-add-two-numbers](https://github.com/bhallusiva/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bhallusiva/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/bhallusiva/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhallusiva/DSA/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0836-rectangle-overlap](https://github.com/bhallusiva/DSA/tree/master/0836-rectangle-overlap) |
@@ -270,6 +271,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/bhallusiva/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhallusiva/DSA/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -279,4 +281,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhallusiva/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bhallusiva/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
