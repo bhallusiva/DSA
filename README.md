@@ -154,6 +154,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhallusiva/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -219,6 +220,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhallusiva/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -271,4 +273,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bhallusiva/DSA/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/bhallusiva/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
