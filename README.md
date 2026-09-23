@@ -156,6 +156,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhallusiva/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -269,6 +270,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
