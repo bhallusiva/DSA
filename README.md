@@ -159,6 +159,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -273,6 +274,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
