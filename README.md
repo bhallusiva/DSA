@@ -158,6 +158,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhallusiva/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
@@ -274,6 +275,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhallusiva/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
@@ -294,4 +296,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhallusiva/DSA/tree/master/0062-unique-paths) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
