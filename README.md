@@ -155,6 +155,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhallusiva/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhallusiva/DSA/tree/master/0046-permutations) |
@@ -176,6 +177,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhallusiva/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhallusiva/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -272,6 +274,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhallusiva/DSA/tree/master/0046-permutations) |
@@ -299,5 +302,14 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
