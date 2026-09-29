@@ -209,6 +209,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## String
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/bhallusiva/DSA/tree/master/0131-palindrome-partitioning) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhallusiva/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhallusiva/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
@@ -281,12 +282,14 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/bhallusiva/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bhallusiva/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhallusiva/DSA/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/bhallusiva/DSA/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
