@@ -161,6 +161,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0046-permutations](https://github.com/bhallusiva/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -209,6 +210,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/bhallusiva/DSA/tree/master/0131-palindrome-partitioning) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhallusiva/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhallusiva/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -281,6 +283,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0046-permutations](https://github.com/bhallusiva/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/bhallusiva/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
@@ -311,8 +314,13 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
