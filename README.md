@@ -325,16 +325,23 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
+| [0100-same-tree](https://github.com/bhallusiva/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bhallusiva/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/bhallusiva/DSA/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/bhallusiva/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
