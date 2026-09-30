@@ -204,6 +204,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -325,12 +326,15 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
