@@ -14,56 +14,22 @@
  * }
  */
 class Solution {
+    int diameter = 0;
     public int diameterOfBinaryTree(TreeNode root) {
-        Queue<TreeNode> q =new LinkedList<>();
-        int diameter = 0;
-        q.offer(root);
-        while(!q.isEmpty())
-        {
-        int size = q.size();
-        for(int i = 0;i<size; i++)
-        {
-            TreeNode node = q.poll();
-            int left = height(node.left);
-            int right = height(node.right);
-            diameter = Math.max(diameter,left+right);
-            if(node.left!=null)
-            {
-                q.offer(node.left);
-
-            }
-            if(node.right!=null)
-            {
-                q.offer(node.right);
-            }
-        }
-       
-        }
+        
+         dfs(root);
          return diameter;
-
+    
     }
-    private int height(TreeNode root)
+    private int dfs(TreeNode root)
     {
-         if(root==null)
+        if(root==null)
         {
             return 0;
         }
-        int height = 0;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-       
-        while(!q.isEmpty())
-        {
-             int size = q.size();
-             for(int i = 0;i<size;i++)
-             {
-                TreeNode node = q.poll();
-                if(node.left!=null) q.offer(node.left);
-                if(node.right!=null) q.offer(node.right);
-             }
-             height++;
-
-        }
-        return height;
+        int left = dfs(root.left);
+        int right = dfs(root.right);
+        diameter = Math.max(diameter,left+right);
+        return Math.max(left,right)+1;
     }
 }
