@@ -333,6 +333,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Tree
@@ -348,6 +349,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
@@ -363,6 +365,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
@@ -380,4 +383,12 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
