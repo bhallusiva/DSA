@@ -335,6 +335,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0113-path-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -353,6 +354,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0113-path-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -371,6 +373,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0113-path-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
