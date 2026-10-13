@@ -181,6 +181,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhallusiva/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhallusiva/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -347,6 +348,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Tree
 |  |
 | ------- |
@@ -372,6 +374,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +400,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -413,10 +417,12 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## String Matching
 |  |
 | ------- |
@@ -429,8 +435,10 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
