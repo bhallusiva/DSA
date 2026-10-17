@@ -14,24 +14,49 @@
  * }
  */
 class Solution {
-    ArrayList<TreeNode> list = new ArrayList<>();
+    // ArrayList<TreeNode> list = new ArrayList<>();
     public void flatten(TreeNode root) {
-        preorder(root);
-        int size = list.size();
-        for(int i = 0 ; i<size-1; i++)
+        // preorder(root);
+        // int size = list.size();
+        // for(int i = 0 ; i<size-1; i++)
+        // {
+        //     list.get(i).right = list.get(i+1);
+        //     list.get(i).left = null;
+        // }
+
+        TreeNode curr = root;
+        while(curr!=null)
         {
-            list.get(i).right = list.get(i+1);
-            list.get(i).left = null;
+            if(curr.left!=null)
+            {
+            TreeNode temp = curr.right;
+            curr.right = curr.left;
+            curr.left = null;
+            TreeNode rightMost = rightMostNode(curr);
+            rightMost.right = temp;
+            }
+            curr = curr.right;
+
         }
+
+        
     }
-    private void preorder(TreeNode root)
+    private TreeNode rightMostNode(TreeNode root)
     {
-        if(root==null)
+        while(root.right != null)
         {
-            return;
+            root = root.right;
         }
-        list.add(root);
-        preorder(root.left);
-        preorder(root.right);
+        return root;
     }
+    // private void preorder(TreeNode root)
+    // {
+    //     if(root==null)
+    //     {
+    //         return;
+    //     }
+    //     list.add(root);
+    //     preorder(root.left);
+    //     preorder(root.right);
+    // }
 }
