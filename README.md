@@ -167,6 +167,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -184,6 +185,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhallusiva/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bhallusiva/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -245,6 +247,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0004-median-of-two-sorted-arrays](https://github.com/bhallusiva/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -383,6 +386,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -412,6 +416,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0993-cousins-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
