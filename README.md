@@ -166,6 +166,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -246,6 +247,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhallusiva/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
@@ -369,6 +371,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bhallusiva/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhallusiva/DSA/tree/master/0112-path-sum) |
@@ -399,6 +402,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0104-maximum-depth-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bhallusiva/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bhallusiva/DSA/tree/master/0112-path-sum) |
@@ -460,4 +464,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
