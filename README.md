@@ -217,6 +217,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bhallusiva/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/bhallusiva/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0445-add-two-numbers-ii](https://github.com/bhallusiva/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -386,6 +387,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhallusiva/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/bhallusiva/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bhallusiva/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -421,6 +423,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0129-sum-root-to-leaf-numbers](https://github.com/bhallusiva/DSA/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/bhallusiva/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/bhallusiva/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -482,7 +485,16 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/bhallusiva/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhallusiva/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bhallusiva/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/bhallusiva/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
