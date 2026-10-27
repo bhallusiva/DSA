@@ -362,6 +362,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0437-path-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/bhallusiva/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhallusiva/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -397,6 +398,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0450-delete-node-in-a-bst](https://github.com/bhallusiva/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/bhallusiva/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhallusiva/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -435,6 +437,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0450-delete-node-in-a-bst](https://github.com/bhallusiva/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/bhallusiva/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0617-merge-two-binary-trees](https://github.com/bhallusiva/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhallusiva/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0700-search-in-a-binary-search-tree) |
@@ -457,6 +460,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/bhallusiva/DSA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/bhallusiva/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/bhallusiva/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhallusiva/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
