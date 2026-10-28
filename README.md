@@ -150,6 +150,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0061-rotate-list](https://github.com/bhallusiva/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/bhallusiva/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhallusiva/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/bhallusiva/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bhallusiva/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -169,6 +170,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
+| [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
@@ -199,6 +201,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Simulation
 |  |
@@ -282,6 +285,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
@@ -508,4 +512,8 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/bhallusiva/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
