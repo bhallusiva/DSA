@@ -165,6 +165,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/bhallusiva/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/bhallusiva/DSA/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/bhallusiva/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bhallusiva/DSA/tree/master/0090-subsets-ii) |
@@ -202,6 +203,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bhallusiva/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhallusiva/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -519,5 +521,6 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bhallusiva/DSA/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
