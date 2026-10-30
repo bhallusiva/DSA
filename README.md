@@ -173,6 +173,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/bhallusiva/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0216-combination-sum-iii](https://github.com/bhallusiva/DSA/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/bhallusiva/DSA/tree/master/0860-lemonade-change) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
@@ -291,6 +292,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/bhallusiva/DSA/tree/master/0860-lemonade-change) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhallusiva/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
