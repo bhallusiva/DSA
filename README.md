@@ -176,6 +176,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0860-lemonade-change](https://github.com/bhallusiva/DSA/tree/master/0860-lemonade-change) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/bhallusiva/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1029-two-city-scheduling](https://github.com/bhallusiva/DSA/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhallusiva/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/bhallusiva/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -208,6 +209,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0056-merge-intervals](https://github.com/bhallusiva/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/bhallusiva/DSA/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/bhallusiva/DSA/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhallusiva/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhallusiva/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bhallusiva/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -295,6 +297,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/bhallusiva/DSA/tree/master/0860-lemonade-change) |
+| [1029-two-city-scheduling](https://github.com/bhallusiva/DSA/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhallusiva/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/bhallusiva/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bhallusiva/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -532,4 +535,12 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/bhallusiva/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/bhallusiva/DSA/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/bhallusiva/DSA/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
