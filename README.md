@@ -164,6 +164,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0037-sudoku-solver](https://github.com/bhallusiva/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/bhallusiva/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/bhallusiva/DSA/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/bhallusiva/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/bhallusiva/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bhallusiva/DSA/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/bhallusiva/DSA/tree/master/0056-merge-intervals) |
@@ -300,6 +301,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhallusiva/DSA/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/bhallusiva/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/bhallusiva/DSA/tree/master/0860-lemonade-change) |
@@ -334,6 +336,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/bhallusiva/DSA/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/bhallusiva/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bhallusiva/DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/bhallusiva/DSA/tree/master/0131-palindrome-partitioning) |
