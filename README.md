@@ -178,6 +178,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0347-top-k-frequent-elements](https://github.com/bhallusiva/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/bhallusiva/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/bhallusiva/DSA/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/bhallusiva/DSA/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/bhallusiva/DSA/tree/master/0881-boats-to-save-people) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -202,6 +203,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/bhallusiva/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bhallusiva/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0692-top-k-frequent-words](https://github.com/bhallusiva/DSA/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/bhallusiva/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/bhallusiva/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/bhallusiva/DSA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -219,6 +221,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | [0347-top-k-frequent-elements](https://github.com/bhallusiva/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/bhallusiva/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bhallusiva/DSA/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/bhallusiva/DSA/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/bhallusiva/DSA/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/bhallusiva/DSA/tree/master/1029-two-city-scheduling) |
 | [1833-maximum-ice-cream-bars](https://github.com/bhallusiva/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -251,6 +254,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0079-word-search](https://github.com/bhallusiva/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/bhallusiva/DSA/tree/master/0131-palindrome-partitioning) |
+| [0692-top-k-frequent-words](https://github.com/bhallusiva/DSA/tree/master/0692-top-k-frequent-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bhallusiva/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/bhallusiva/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
@@ -287,6 +291,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhallusiva/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/bhallusiva/DSA/tree/master/0692-top-k-frequent-words) |
 | [2206-divide-array-into-equal-pairs](https://github.com/bhallusiva/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
@@ -571,6 +576,7 @@ This is a **living repository**. New problems and patterns are added continuousl
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bhallusiva/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bhallusiva/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/bhallusiva/DSA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -580,4 +586,9 @@ This is a **living repository**. New problems and patterns are added continuousl
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/bhallusiva/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/bhallusiva/DSA/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/bhallusiva/DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
